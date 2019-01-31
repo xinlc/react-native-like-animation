@@ -1,6 +1,6 @@
 {
   "name": "react-native-like-animation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native like animation component",
   "main": "src/index.js",
   "repository": {
